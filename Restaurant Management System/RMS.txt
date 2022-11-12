@@ -1,0 +1,111 @@
+### RESTAURANT MANAGEMENT SYSTEM ######
+
+modules :-
+
+Staff management
+Login addmin
+Stock Conctrol
+Transations
+Reservation
+table Managements
+Menu Managements
+
+
+
+
+1. Staff management
+
+included :-
+
+*staff Attendance
+
+*staff salary
+
+*staff holidays
+
+
+2. Login addmin
+included :-
+
+* remove and adding 
+
+* to enroll himself
+
+* maintain records
+
+* financial records( salary,transations of inventory, receving orders,online payment
+
+
+3. Stock Conctrol
+
+* addmin to maintain stock
+* get the information of good persent in stock
+* inform the addmin about the inventory 
+* automatically make an order for that
+
+4. transaction
+
+* track the financial records of the employees {
+                                 manage salary of the employee,
+                                 manage inventory payment to the dealers
+                                 manage loans from the bank,
+                                 finding loans from the bank
+                                 }
+5. Reservation
+ 
+*customers can reserve the tables 
+   included:-
+        * customers registration
+        * customers can manage food menu
+
+6. table managemnt
+
+    * total number of reserving the tables and places
+
+    
+
+
+
+Restaurant
+   1. Name 
+   2. contact number
+   3. Address
+   
+Manager
+   1. name 
+   2. Id
+
+order 
+   1. order id / order no
+   2. No-of-item
+ 
+items
+   1. itemid
+   2. description
+   3. name
+   
+
+waiter
+   1. name 
+   2. Id
+
+food bill
+   1. order data 
+   2. bill no
+   3. amount
+
+customers
+   1. name
+   2. contact number
+   3. address
+
+cashier
+   1. name
+   2. id
+
+
+
+
+* 
+
+
